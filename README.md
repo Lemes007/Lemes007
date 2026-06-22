@@ -1,12 +1,12 @@
-# 👋 Bem-vindo ao meu GitHub!
+# 👋 Olá, esse é o meu GitHub
 
-Me chamo **[SEU NOME COMPLETO]** e sou **[SUA PROFISSÃO/ÁREA DE ESTUDO]**.
+Me chamo **Davi Lemes de Paula** e sou **estudante de engenharia de software**.
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **[SUAS ÁREAS DE INTERESSE - ex: web development, data science, etc.]** com experiência em **[TECNOLOGIAS PRINCIPAIS]**. 
+Eu gosto bastante de **computação e games online**. 
 
 > 💡 *Adicione aqui um resumo sobre você, seus objetivos profissionais e o que você está estudando no momento.*
 
@@ -14,11 +14,8 @@ Sou um desenvolvedor apaixonado por **[SUAS ÁREAS DE INTERESSE - ex: web develo
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens**: [Adicione suas linguagens aqui]
-- **Frontend**: [HTML, CSS, JavaScript, React, etc.]
-- **Backend**: [Node.js, Python, Java, etc.]
-- **Banco de Dados**: [SQL, MongoDB, etc.]
-- **Ferramentas**: [Git, Docker, VS Code, etc.]
+- **Linguagens**: Portugol, C+ e um pouco de Python
+- **Ferramentas**: Git, Docker, VS Code, etc.
 
 ---
 
