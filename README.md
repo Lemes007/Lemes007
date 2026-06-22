@@ -4,7 +4,7 @@ Me chamo **Davi Lemes de Paula**, sou estudante de Engenharia de Software no Cen
 
 ---
 
-## 🚀 Sobre Mim
+## 🔧Sobre Mim
 
 Atualmente estou estudando fundamentos de programação, desenvolvimento web e boas práticas de versionamento com Git. Meus projetos aqui incluem trabalhos de disciplina, pequenos sites e exemplos de código que mostram minha evolução técnica.
 
